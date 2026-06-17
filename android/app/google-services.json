@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340220822517",
+    "project_id": "lingobreeze-vocabulary",
+    "storage_bucket": "lingobreeze-vocabulary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340220822517:android:057b7a62232613f507d6bc",
+        "android_client_info": {
+          "package_name": "com.example.lingobreeze_vocabulary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnsSBL8e9XoxjkkALe642euJqlWhKBDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
