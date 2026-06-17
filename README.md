@@ -235,6 +235,32 @@ Project Status:
 - Real-time Data Synchronization
 
 ---
+## AI Usage Disclosure
+
+AI tools were used to accelerate development, debugging, and implementation.
+
+### Tools Used
+
+* ChatGPT
+* GitHub Copilot
+
+### Estimated Contribution
+
+| Area                               | AI Contribution              |
+| ---------------------------------- | ---------------------------- |
+| UI Development                     | 60%                          |
+| Firebase Integration               | 40%                          |
+| Backend API Development            | 50%                          |
+| Debugging & Troubleshooting        | 70%                          |
+| Architecture Decisions             | 20%                          |
+| Final Implementation & Integration | Manual Review and Refinement |
+
+### Notes
+
+AI was used as a development assistant for generating boilerplate code, troubleshooting errors, and accelerating implementation.
+
+All code was reviewed, integrated, tested, debugged, and adapted manually to satisfy the assignment requirements.
+
 
 ## 👨‍💻 Author
 
